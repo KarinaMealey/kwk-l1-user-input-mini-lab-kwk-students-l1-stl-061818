@@ -18,4 +18,4 @@ gets = nights
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "You want to stay at #{stay} and eat at #{eat} and spend #{nights} nights here"
+puts "You want to stay at #{stay}, eat #{eat} and spend #{nights} nights here"
